@@ -1,0 +1,8 @@
+font.family: sans-serif
+font.sans-serif: Arial
+legend.fontsize: xx-large
+axes.labelsize: 19
+axes.titlesize: 19
+xtick.labelsize: 18
+ytick.labelsize: 18
+axes.titlepad: 25

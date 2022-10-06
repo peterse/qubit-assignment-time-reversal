@@ -1,0 +1,5 @@
+qiskit>=0.24.0
+qiskit-terra>=0.16.4
+qiskit-aer>=0.7.6
+networkx>=0.8.0
+Pillow>=7.0

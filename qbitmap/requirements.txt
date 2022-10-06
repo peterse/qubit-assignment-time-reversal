@@ -1,0 +1,4 @@
+numpy
+cirq>=0.11.0
+scipy
+networkx

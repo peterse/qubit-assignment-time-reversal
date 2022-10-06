@@ -1,4 +1,4 @@
-# Assigning qubits with time-reversibility
+# Assigning qubits using time reversal
 
 This repository contains code to support the manuscript,
 

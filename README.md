@@ -2,7 +2,6 @@
 
 This repository contains code to support the manuscript,
 
-"Noise-aware qubit assignment on NISQ hardware using simulated annealing and
-Loschmidt Echoes".
+"[Qubit Assignment Using Time Reversal.](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.040333)" Evan Peters, Prasanth Shyamsundar, Andy C.Y. Li, and Gabriel Perdue. PRX Quantum 3, 040333 (2022).
 
 To run any of the relevant code, the `qbitmap` module must be installed locally.
